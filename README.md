@@ -1,6 +1,6 @@
 # Hi there, I'm sithum 👋
 
-I'm a Software Developer,building scalable applications
+I'm a Developer,building scalable applications
 I love working with Python, JavaScript, React, etc.
 
 ## 🔧 Technologies & Tools
